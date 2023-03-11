@@ -9,3 +9,6 @@ npm install @react-navigation/drawer
 For detail, please read doc.
 - [react navigation drawer](https://reactnavigation.org/docs/drawer-navigator/#installation)
 - [expo router](https://expo.github.io/router/docs/migration/react-navigation/drawer/)
+
+# Demo
+https://user-images.githubusercontent.com/73212893/224485601-26bc7545-0ad3-4b67-9ac6-ecbac57cdb14.mov
